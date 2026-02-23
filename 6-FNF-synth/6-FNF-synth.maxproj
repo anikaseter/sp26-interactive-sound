@@ -2,10 +2,10 @@
     "name": "6-FNF-synth",
     "version": 1,
     "creationdate": 3854192730,
-    "modificationdate": 3854363908,
-    "viewrect": [ 25.0, 106.0, 360.0, 523.0 ],
+    "modificationdate": 3854653392,
+    "viewrect": [ 9.0, 206.0, 360.0, 523.0 ],
     "autoorganize": 0,
-    "hideprojectwindow": 0,
+    "hideprojectwindow": 1,
     "showdependencies": 1,
     "autolocalize": 0,
     "contents": {
@@ -16,7 +16,16 @@
                 "toplevel": 1
             }
         },
-        "media": {        }
+        "media": {
+            "forest.jpeg": {
+                "kind": "imagefile",
+                "local": 1,
+                "singleton": {
+                    "bootpath": "~/Documents/GitHub/InteractiveSoundSp26/6-FNF-synth/Assets",
+                    "projectrelativepath": "./Assets"
+                }
+            }
+        }
     },
     "layout": {    },
     "searchpath": {    },
