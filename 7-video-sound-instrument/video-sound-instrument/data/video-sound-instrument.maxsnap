@@ -1,0 +1,29 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "video-sound-instrument",
+    "origin": "video-sound-instrument",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 0,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "Playback controls": 2.0,
+                "Speed high": 1.0,
+                "Speed low": 1.0,
+                "letterbox_menu": 0.0,
+                "live.gain~": 0.0,
+                "live.tab": 0.0,
+                "blob": {
+                    "Playback position": [ 0.3471466443421236 ],
+                    "Playback range": [ 0.0, 1.0 ],
+                    "Rate range": [ 0 ],
+                    "moviename": [ "RedSunVid.mp4" ],
+                    "moviepath": [ "C:/Users/anika/Documents/GitHub/sp26-interactive-sound/7-video-sound-instrument/Media/RedSunVid.mp4" ]
+                }
+            }
+        }
+    }
+}
